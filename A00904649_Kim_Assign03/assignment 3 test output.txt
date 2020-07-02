@@ -1,0 +1,34 @@
+The current number of Array<int, 5> objects instantiated is: 0
+
+The current number of Array<string, 7> objects instantiated is: 0
+
+Enter 5 integer values:
+1 2 3 4 5
+
+The values in intArray1 are:
+1 2 3 4 5
+
+Enter 7 one-word string values:
+How are you today my good fellow?
+
+The values in the stringArray are:
+How are you today my good fellow?
+
+intArray1 == intArray3
+
+stringArray1 == stringArray2
+
+The values in intArray1 are:
+5 2 3 4 5
+
+The values in the stringArray1 are:
+How are you today my good hello!!!
+
+intArray1 != intArray3
+
+stringArray1 != stringArray2
+
+The current number of Array<int, 5> objects instantiated is: 3
+
+The current number of Array<string, 7> objects instantiated is: 2
+계속하려면 아무 키나 누르십시오 . . .
